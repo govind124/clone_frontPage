@@ -1,0 +1,118 @@
+.cards {
+  display: flex;
+  position: relative;
+  left: 400px;
+  height: 280px;
+  background-color: white;
+  gap: 3px;
+}
+
+.first_card {
+  height: 230px;
+  width: 180px;
+  border-radius: 30px;
+  box-shadow: 1px 1px 2px 2px gray;
+  text-align: center;
+  position: relative;
+  bottom: 20px;
+
+
+}
+
+.second_card {
+  height: 230px;
+
+  width: 180px;
+  box-shadow: 1px 1px 2px 2px gray;
+
+  text-align: center;
+
+
+  border-radius: 30px;
+
+}
+
+.third_card {
+  height: 230px;
+
+  width: 180px;
+  box-shadow: 1px 1px 2px 2px gray;
+  position: relative;
+  bottom: 20px;
+  text-align: center;
+  border-radius: 30px;
+
+}
+
+.fourth_card {
+  height: 230px;
+  position: relative;
+    
+  width: 180px;
+  box-shadow: 1px 1px 2px 2px gray;
+  text-align: center;
+
+
+  border-radius: 30px;
+
+}
+
+.five_card {
+  height: 230px;
+
+  width: 180px;
+  box-shadow: 1px 1px 2px 2px gray;
+  border-radius: 30px;
+  text-align: center;
+  position: relative;
+  bottom: 20px;
+}
+
+#head-1 {
+  background-color: #1b001f;
+  border-radius: 30px;
+  height: 30px;
+  text-align: center;
+  position: relative;
+  bottom: 20px;
+}
+
+#head-2 {
+  background-color: #262d91;
+  border-radius: 30px;
+  height: 30px;
+
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+
+#head-3 {
+  background-color: gray;
+  border-radius: 30px;
+  height: 30px;
+
+  text-align: center;
+  position: relative;
+  bottom: 20px;
+}
+
+#head-4 {
+  background-color: #83850f;
+  border-radius: 30px;
+  height: 30px;
+
+  text-align: center;
+  position: relative;
+  top:35px;
+
+}
+
+#head-5 {
+  background-color: #bb4813;
+  border-radius: 30px;
+  height: 30px;
+  text-align: center;
+  position: relative;
+  bottom: 20px;
+}

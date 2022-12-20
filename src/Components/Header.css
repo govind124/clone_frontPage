@@ -1,0 +1,16 @@
+.header-component{
+  height: 400px;
+  box-sizing: border-box;
+  background-image: url(https://img.freepik.com/free-photo/college-girls-studying-together_23-2149038414.jpg?w=996&t=st=1671557088~exp=1671557688~hmac=8a3c7eaf3da4abf84e12c283b954ab9018f258bf5bd88538ca08a382f5004447);
+  background-size: cover;
+  border: 2px solid transparent;
+}
+.header-component>h1{
+  padding-top: 150px;
+  padding-left: 100px;
+  color: #fff;
+}
+.header-component>h3{
+  padding-left: 100px;
+  color: #fff;
+}

@@ -1,0 +1,10 @@
+p{
+  font-style: bold;
+}
+.footbar{
+  background-color: black;
+  color: gray;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+}
